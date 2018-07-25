@@ -8,4 +8,4 @@
 
 [File Link](example.md)
 
-[External Link](picture.jpg)
+![MJ](picture.jpg)
