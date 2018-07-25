@@ -7,3 +7,5 @@
 [External Link](https://www.google.com)
 
 [File Link](example.md)
+
+[External Link](picture.jpg)
