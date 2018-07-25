@@ -8,11 +8,7 @@
 
 [File Link](example.md)
 
-![MJ](picture.jpg)
-
-![Frog](https://news.bitcoin.com/wp-content/uploads/2018/03/crypto-memes.png)
-
-'''python
+```python
 def fib(n):
      a, b = 0, 1
      while a < n:
@@ -20,4 +16,8 @@ def fib(n):
          a, b = b, a+b
      print()
 fib(1000)
-'''
+```
+
+![MJ](picture.jpg)
+
+![Frog](https://news.bitcoin.com/wp-content/uploads/2018/03/crypto-memes.png)
